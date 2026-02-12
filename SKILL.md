@@ -1,10 +1,9 @@
 ---
 name: business-plan-review-design
-description: Design and implement a weekly Business Plan Review (BPR) meeting structure
-  with color-coded status reporting, consistent format, and clear rules for team alignment.
+description: Design and implement a weekly Business Plan Review (BPR) meeting structure with color-coded status reporting, consistent format, and clear rules for team alignment.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   author: sethmblack
 keywords:
 - business-plan-review-design
