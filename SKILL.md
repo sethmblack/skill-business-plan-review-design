@@ -4,7 +4,7 @@ description: Design and implement a weekly Business Plan Review (BPR) meeting st
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.3519
+  version: 1.0.3520
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - business-plan-review-design
